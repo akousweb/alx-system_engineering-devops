@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Shell basics project
+This is the repository of the shell basics project
